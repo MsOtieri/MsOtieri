@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MsOtieri
-- 👀 I’m interested in Data science and AI
+- 👋 Hi, I’m Sarah Nyabisi Otieri
+- 👀 I’m interested in web development and cybersecurity.
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on more about Data science 
-- 📫 How to reach me, my email sarahotieri@gmail.com
+- 💞️ I’m looking to collaborate on more about web development
+- 📫 How to reach me, my email sarahnyabisi@gmail.com
 
 <!---
 MsOtieri/MsOtieri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
